@@ -1,0 +1,24 @@
+body {
+    font-family: Lato, sans-serif;
+    text-align: center;
+}
+
+.cartoon {
+    
+    
+}
+
+h1 {
+ text-align: center;
+    font-weight: 900
+    
+}
+
+.testimonials {
+ text-align: center, justify;
+    font-size: 22px;
+}
+
+.testimonials {
+    list-style-type: none;
+}
